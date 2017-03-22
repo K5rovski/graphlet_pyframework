@@ -1,0 +1,8 @@
+
+
+simulations/results/*
+!simulations/results/*.plot
+
+*.pyc
+
+notebooks/.ipynb_checkpoints/
